@@ -135,7 +135,7 @@ const Button = styled.button`
   text-transform: uppercase;
   cursor: pointer;
   letter-spacing: 1px;
-  box-shadow: 0 7px #999;
+ 
   &:hover {
     background-color: #1b1b1b;
   }
